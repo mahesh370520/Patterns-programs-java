@@ -360,6 +360,7 @@ Starts from reverse alphabets and prints forward.
 
 ## ⭐ Pattern 19 – Double Triangle Pattern
 ### Output
+---
 **********
 ****  ****
 ***    ***
@@ -370,6 +371,7 @@ Starts from reverse alphabets and prints forward.
 ***    ***
 ****  ****
 **********
+---
 ### Explanation
 
 Creates mirrored star triangles with spaces in the center. The number of stars decreases first and then increases again, while spaces behave oppositely to create a symmetric shape.
