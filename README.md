@@ -14,12 +14,12 @@ Pattern problems are one of the best ways to improve logical thinking in program
 
 # 📚 Concepts Used
 
-✅ Nested Loops
-✅ If-Else Conditions
-✅ Space Management
-✅ Number Logic
-✅ Character Handling
-✅ Symmetry Patterns
+✅ Nested Loops\
+✅ If-Else Conditions\
+✅ Space Management\
+✅ Number Logic\
+✅ Character Handling\
+✅ Symmetry Patterns\
 
 ---
 
@@ -442,19 +442,19 @@ Whenever solving a new pattern:
 
 # 🚀 Skills Improved Through Pattern Practice
 
-✅ Logical Thinking
-✅ Java Basics
-✅ Loop Mastery
-✅ Debugging Skills
-✅ Problem Solving
-✅ Confidence in Coding
+✅ Logical Thinking\
+✅ Java Basics\
+✅ Loop Mastery\
+✅ Debugging Skills\
+✅ Problem Solving\
+✅ Confidence in Coding\
 
 ---
 
 # ☕ Technologies Used
 
 * Java
-* VS Code / IntelliJ IDEA
+* VS Code 
 * JDK
 
 ---
@@ -466,8 +466,6 @@ Practicing patterns daily is one of the best ways to become strong in programmin
 Still learning and improving every day 🚀
 
 ---
-
-# 🔗 Connect With Me
 
 ## 👨‍💻 Author: Kuruba Mahesh
 
